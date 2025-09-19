@@ -1,6 +1,6 @@
 # 🔥 Flash USDT – Fast & Secure USDT Selling Platform
 
-## 🚀 What is Flash USDT Sell?
+## 🚀 What is Flash USDT ?
 ### **Flash USDT Sell** is a powerful crypto tool that allows you to **instantly sell USDT (Tether)** across major blockchain networks like **TRC20, ERC20, and BEP20**.  
 ### Our platform is designed for **speed, security, and reliability**, making it the best choice for traders and businesses who need quick USDT liquidation.
 
