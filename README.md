@@ -41,5 +41,3 @@
 ## Have questions or need support?
 ## Website
 ### https://www.flashusdt1.shop/
-## Telegram
-### http://bit.ly/4pwZ71U
